@@ -1,7 +1,5 @@
 # Bird-Counting
 Collaborative project on counting birds in images for the purposes of surveillance and monitoring
 
-The code cannot be run without the data files. Those files are too large to store here. (Email: l.i.kuncheva@bangor.ac.uk)
-
-The results are summarised in file ResultsBirdCount.pdf
+The code in the `matlab` folder is a standalone example. (Works with MATLAB 2022b but earlier versions may work as well. Requires the Image Processing Toolbox and the Signal Processing Toolbox.) 
   
